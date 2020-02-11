@@ -8,3 +8,6 @@ omaa koodiani ovat rivit:64-109, jotka sisältävät koodia liittyen api nimisee
 
 
 Header.php:ssa 18-26 ja 44-46, jotka liittyvät loader animaatioon sivun latautuessa.
+
+Live sivuston pitäisi löytyä täältä:
+https://talentevaluationtask.000webhostapp.com/wordpress/
